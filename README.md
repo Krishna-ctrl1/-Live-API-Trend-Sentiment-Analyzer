@@ -2,6 +2,8 @@
 
 A modern, real-time natural language processing (NLP) dashboard that fetches top stories from the Hacker News API, evaluates headline sentiment scores using NLTK VADER, and visualizes upvote distributions, sentiment breakdowns, and trending keywords.
 
+🔗 **Live Demo:** [live-api-trend-sentiment-analyzer.streamlit.app](https://live-api-trend-sentiment-analyzer.streamlit.app/)
+
 ---
 
 ## ✨ Features
